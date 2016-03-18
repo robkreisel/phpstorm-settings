@@ -1,0 +1,9 @@
+<application>
+  <component name="FileTypeManager" version="16">
+    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
+    <extensionMap>
+      <mapping pattern="20150217_add_bogo_discounts" type="SQL" />
+      <mapping pattern="20141208_sc_employee_accts.sql" type="SQL" />
+    </extensionMap>
+  </component>
+</application>
