@@ -529,7 +529,7 @@
     </option>
     <option name="EXECUTIONPOINT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="36312c" />
+        <option name="BACKGROUND" value="48420a" />
       </value>
     </option>
     <option name="FOLDED_TEXT_ATTRIBUTES">
@@ -958,7 +958,7 @@
     </option>
     <option name="PHP_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="850000" />
+        <option name="FOREGROUND" value="ff2865" />
       </value>
     </option>
     <option name="PHP_TAG">
