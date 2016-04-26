@@ -3,6 +3,7 @@
     <option name="customScope" value="project_code" />
     <option name="defaultScopeName" value="project_code" />
     <option name="SEARCH_SCOPE" value="project_code" />
+    <option name="FILE_MASK" value="*.yml" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -16,6 +17,7 @@
       <mask>*.php</mask>
       <mask>account-product.phtml</mask>
       <mask>Row.php</mask>
+      <mask>*.yml</mask>
     </recentFileMasks>
   </component>
 </application>
