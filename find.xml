@@ -16,6 +16,7 @@
       <mask>*.php</mask>
       <mask>account-product.phtml</mask>
       <mask>Row.php</mask>
+      <mask>*.yml</mask>
     </recentFileMasks>
   </component>
 </application>
