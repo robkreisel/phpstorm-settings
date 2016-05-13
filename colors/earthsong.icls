@@ -5,8 +5,9 @@
   <option name="CONSOLE_FONT_SIZE" value="10" />
   <option name="EDITOR_FONT_NAME" value="Menlo" />
   <colors>
-    <option name="ADDED_LINES_COLOR" value="292d38" />
+    <option name="ADDED_LINES_COLOR" value="f3813" />
     <option name="ANNOTATIONS_COLOR" value="8b999f" />
+    <option name="BORDER_LINES_COLOR" value="" />
     <option name="CARET_COLOR" value="7b7d83" />
     <option name="CARET_ROW_COLOR" value="" />
     <option name="CONSOLE_BACKGROUND_KEY" value="2b303b" />
@@ -30,7 +31,7 @@
     <option name="INDENT_GUIDE" value="3c3e42" />
     <option name="LINE_NUMBERS_COLOR" value="888888" />
     <option name="METHOD_SEPARATORS_COLOR" value="4d4d4d" />
-    <option name="MODIFIED_LINES_COLOR" value="" />
+    <option name="MODIFIED_LINES_COLOR" value="95e6a" />
     <option name="NOTIFICATION_BACKGROUND" value="3d1a11" />
     <option name="READONLY_FRAGMENT_BACKGROUND" value="" />
     <option name="RECURSIVE_CALL_ATTRIBUTES" value="574300" />
