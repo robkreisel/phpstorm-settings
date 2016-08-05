@@ -28,7 +28,9 @@
         </PlaceSettings>
       </entry>
       <entry key="Default">
-        <PlaceSettings />
+        <PlaceSettings>
+          <option name="HIGHLIGHT_POLICY" value="BY_WORD_SPLIT" />
+        </PlaceSettings>
       </entry>
     </option>
   </component>
