@@ -1,6 +1,13 @@
 <keymap version="1" name="Default copy" parent="Mac OS X 10.5+">
+  <action id="Macro.$this-&gt;">
+    <keyboard-shortcut first-keystroke="f14" />
+  </action>
+  <action id="Macro.-&gt;">
+    <keyboard-shortcut first-keystroke="f15" />
+  </action>
   <action id="Macro.End line with semicolon">
     <keyboard-shortcut first-keystroke="ctrl semicolon" />
+    <keyboard-shortcut first-keystroke="f13" />
   </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
