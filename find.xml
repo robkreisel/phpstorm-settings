@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="Better Scope" />
     <option name="defaultScopeName" value="Better Scope" />
+    <option name="localCaseSensitive" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Better Scope" />
     <recentFileMasks>
       <mask>*.properties</mask>
