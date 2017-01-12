@@ -1,6 +1,6 @@
 <application>
   <component name="Markdown Navigator">
-    <PreviewSettings splitEditorLayout="SPLIT" splitEditorPreview="PREVIEW" useGrayscaleRendering="false" zoomFactor="1.0" maxImageWidth="0" showGitHubPageIfSynced="false" allowBrowsingInPreview="false" synchronizePreviewPosition="true" highlightPreviewType="NONE" highlightFadeOut="5" highlightOnTyping="true" synchronizeSourcePosition="true">
+    <PreviewSettings splitEditorLayout="SPLIT" splitEditorPreview="PREVIEW" useGrayscaleRendering="false" zoomFactor="1.0" maxImageWidth="0" showGitHubPageIfSynced="false" allowBrowsingInPreview="false" synchronizePreviewPosition="false" highlightPreviewType="LINE" highlightFadeOut="5" highlightOnTyping="false" synchronizeSourcePosition="false">
       <PanelProvider>
         <provider providerId="com.vladsch.idea.multimarkdown.editor.swing.html.panel" providerName="Default - Swing" />
       </PanelProvider>
@@ -14,18 +14,19 @@
         <option name="DEFINITIONS" value="false" />
         <option name="FENCED_CODE_BLOCKS" value="true" />
         <option name="FOOTNOTES" value="false" />
-        <option name="FORCELISTITEMPARA" value="false" />
         <option name="HARDWRAPS" value="false" />
+        <option name="INSERTED" value="false" />
         <option name="QUOTES" value="false" />
         <option name="RELAXEDHRULES" value="true" />
         <option name="SMARTS" value="false" />
         <option name="STRIKETHROUGH" value="true" />
+        <option name="SUBSCRIPT" value="false" />
+        <option name="SUPERSCRIPT" value="false" />
         <option name="SUPPRESS_HTML_BLOCKS" value="false" />
         <option name="SUPPRESS_INLINE_HTML" value="false" />
         <option name="TABLES" value="true" />
         <option name="TASKLISTITEMS" value="true" />
         <option name="TOC" value="false" />
-        <option name="TRACE_PARSER" value="false" />
         <option name="WIKILINKS" value="true" />
       </PegdownExtensions>
       <ParserOptions>
