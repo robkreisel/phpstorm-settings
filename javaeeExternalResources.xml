@@ -1,6 +1,0 @@
-<application>
-  <component name="ExternalResourceManagerImpl">
-    <ignored-resource url="http://purl.org/dc/elements/1.1/" />
-    <ignored-resource url="http://www.andymatuschak.org/xml-namespaces/sparkle" />
-  </component>
-</application>
