@@ -17,6 +17,7 @@
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="d5756c" />
     <option name="FILESTATUS_MERGED" value="7d8991" />
     <option name="FILESTATUS_MODIFIED" value="f9d423" />
+    <option name="FILESTATUS_NOT_CHANGED" value="" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="f9d423" />
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="f9d423" />
     <option name="FILESTATUS_UNKNOWN" value="d1675a" />
@@ -55,6 +56,17 @@
       <value>
         <option name="EFFECT_COLOR" value="c81414" />
         <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="BASH.EXTERNAL_COMMAND">
+      <value>
+        <option name="FOREGROUND" value="c57633" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="BASH.INTERNAL_COMMAND">
+      <value>
+        <option name="FOREGROUND" value="b0c95" />
       </value>
     </option>
     <option name="BNF_EXTERNAL">
