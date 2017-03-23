@@ -1,6 +1,8 @@
 <scheme name="Rainbow" version="142" parent_scheme="Default">
   <option name="LINE_SPACING" value="1.4" />
-  <option name="EDITOR_FONT_SIZE" value="10" />
+  <option name="EDITOR_FONT_SIZE" value="14" />
+  <option name="CONSOLE_FONT_NAME" value="Menlo" />
+  <option name="CONSOLE_FONT_SIZE" value="10" />
   <option name="EDITOR_FONT_NAME" value="Menlo" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="292d38" />
@@ -17,7 +19,6 @@
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="d5756c" />
     <option name="FILESTATUS_MERGED" value="ef746f" />
     <option name="FILESTATUS_MODIFIED" value="c78feb" />
-    <option name="FILESTATUS_NOT_CHANGED" value="" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="c78feb" />
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="c78feb" />
     <option name="FILESTATUS_UNKNOWN" value="d1675a" />
@@ -62,11 +63,6 @@
       <value>
         <option name="FOREGROUND" value="c57633" />
         <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="BASH.INTERNAL_COMMAND">
-      <value>
-        <option name="FOREGROUND" value="b0c95" />
       </value>
     </option>
     <option name="BNF_EXTERNAL">
