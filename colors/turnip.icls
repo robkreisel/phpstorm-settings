@@ -1,9 +1,8 @@
 <scheme name="Turnip" version="142" parent_scheme="Default">
-  <option name="FONT_SCALE" value="1.0" />
   <option name="LINE_SPACING" value="1.4" />
   <option name="EDITOR_FONT_SIZE" value="14" />
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
-  <option name="CONSOLE_FONT_SIZE" value="12" />
+  <option name="CONSOLE_FONT_SIZE" value="10" />
   <option name="EDITOR_FONT_NAME" value="Menlo" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="292d38" />
@@ -37,8 +36,8 @@
     <option name="RIGHT_MARGIN_COLOR" value="323232" />
     <option name="SELECTED_INDENT_GUIDE" value="505050" />
     <option name="SELECTED_TEARLINE_COLOR" value="787878" />
-    <option name="SELECTION_BACKGROUND" value="9d41ff" />
-    <option name="SELECTION_FOREGROUND" value="" />
+    <option name="SELECTION_BACKGROUND" value="376482" />
+    <option name="SELECTION_FOREGROUND" value="fff9f8" />
     <option name="TEARLINE_COLOR" value="303134" />
     <option name="WHITESPACES" value="505050" />
   </colors>
