@@ -66,6 +66,11 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="BASH.INTERNAL_COMMAND">
+      <value>
+        <option name="FOREGROUND" value="5bcfff" />
+      </value>
+    </option>
     <option name="BNF_EXTERNAL">
       <value>
         <option name="FONT_TYPE" value="2" />
