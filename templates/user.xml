@@ -1,7 +1,0 @@
-<templateSet group="user">
-  <template name="jnk" value="$this-&gt;junk-&gt;test();" description="Expands a test junk" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="PHP Statement" value="true" />
-    </context>
-  </template>
-</templateSet>
