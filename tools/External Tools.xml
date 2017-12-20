@@ -22,15 +22,15 @@
   </tool>
   <tool name="Ansible Decrypt" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="/usr/loca/bin/ansible_vault" />
-      <option name="PARAMETERS" value="-vvv decrypt $FileDir$/$FileName$ --vault_password_file $ProjectFileDir$/.vault_pass.txt" />
+      <option name="COMMAND" value="/usr/local/bin/ansible-vault" />
+      <option name="PARAMETERS" value="-vvv decrypt $FileDir$/$FileName$ --vault-password-file $ProjectFileDir$/.vault_pass.txt" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
   <tool name="Ansible Encrypt" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="/usr/loca/bin/ansible_vault" />
-      <option name="PARAMETERS" value="-vvv decrypt $FileDir$/$FileName$ --vault_password_file $ProjectFileDir$/.vault_pass.txt" />
+      <option name="COMMAND" value="/usr/local/bin/ansible-vault" />
+      <option name="PARAMETERS" value="-vvv encrypt $FileDir$/$FileName$ --vault-password-file $ProjectFileDir$/.vault_pass.txt" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
