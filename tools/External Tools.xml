@@ -2,21 +2,21 @@
   <tool name="Prod Mode" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="/bin/sh" />
-      <option name="PARAMETERS" value="./provisioning/scripts/set_env_.sh prod" />
+      <option name="PARAMETERS" value="./provisioning/scripts/set_env.sh prod" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
   <tool name="Stage Mode" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="/bin/sh" />
-      <option name="PARAMETERS" value="./provisioning/scripts/set_env_.sh stage" />
+      <option name="PARAMETERS" value="./provisioning/scripts/set_env.sh stage" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
   <tool name="Dev Mode" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="/bin/sh" />
-      <option name="PARAMETERS" value="./provisioning/scripts/set_env_.sh dev" />
+      <option name="PARAMETERS" value="./provisioning/scripts/set_env.sh dev" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
