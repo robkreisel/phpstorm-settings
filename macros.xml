@@ -1,0 +1,8 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="Add semicolon to end of line">
+      <action id="EditorLineEnd" />
+      <typing text-keycode="59:0">;</typing>
+    </macro>
+  </component>
+</application>
