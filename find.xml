@@ -1,7 +1,9 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="sc-kreisel" />
     <option name="defaultScopeName" value="sc-kreisel" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="sc-kreisel" />
     <recentFileMasks>
       <mask>*.properties</mask>
