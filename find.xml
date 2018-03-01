@@ -3,6 +3,7 @@
     <option name="customScope" value="StartCHURCH Shared" />
     <option name="defaultScopeName" value="StartCHURCH Shared" />
     <option name="SEARCH_SCOPE" value="StartCHURCH Shared" />
+    <option name="FILE_MASK" value="*.yml" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -16,12 +17,12 @@
       <mask>*.php</mask>
       <mask>account-product.phtml</mask>
       <mask>Row.php</mask>
-      <mask>*.yml</mask>
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.tw</mask>
       <mask>*.twi</mask>
       <mask>*.twig</mask>
+      <mask>*.yml</mask>
     </recentFileMasks>
   </component>
 </application>
