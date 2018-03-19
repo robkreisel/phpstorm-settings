@@ -3,7 +3,6 @@
     <option name="customScope" value="StartCHURCH Shared" />
     <option name="defaultScopeName" value="StartCHURCH Shared" />
     <option name="SEARCH_SCOPE" value="StartCHURCH Shared" />
-    <option name="FILE_MASK" value="*.yml" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
