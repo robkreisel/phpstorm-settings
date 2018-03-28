@@ -1,10 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="sc-kreisel" />
-    <option name="defaultScopeName" value="sc-kreisel" />
-    <option name="localCaseSensitive" value="true" />
-    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="sc-kreisel" />
+    <option name="customScope" value="StartCHURCH Shared" />
+    <option name="defaultScopeName" value="StartCHURCH Shared" />
+    <option name="SEARCH_SCOPE" value="StartCHURCH Shared" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -18,12 +16,12 @@
       <mask>*.php</mask>
       <mask>account-product.phtml</mask>
       <mask>Row.php</mask>
-      <mask>*.yml</mask>
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.tw</mask>
       <mask>*.twi</mask>
       <mask>*.twig</mask>
+      <mask>*.yml</mask>
     </recentFileMasks>
   </component>
 </application>
