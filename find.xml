@@ -5,6 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="StartCHURCH Shared" />
+    <option name="FILE_MASK" value="pages.yml" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -24,6 +25,7 @@
       <mask>*.twi</mask>
       <mask>*.twig</mask>
       <mask>*.yml</mask>
+      <mask>pages.yml</mask>
     </recentFileMasks>
   </component>
 </application>
