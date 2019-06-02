@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="nginx_vhost" type="JSON" />
       <mapping pattern="default_symfony" type="PLAIN_TEXT" />
+      <mapping pattern="apache_vhost" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
       <mapping ext="j2" type="PLAIN_TEXT" />
